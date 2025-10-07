@@ -6,4 +6,3 @@ sleep 2
 echo "🚀 Running automated build for Anoop's Jenkins project"
 sleep 2
 echo "🎉 Build finished successfully! Ready for deployment!"
-hi
